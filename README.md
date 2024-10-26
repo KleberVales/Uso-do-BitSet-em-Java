@@ -21,7 +21,7 @@ Para cada operação, exiba o número de bits 1 em 𝐵1 e 𝐵2 como dois intei
 
 ### Exemplo
 - Entrada:\
-![imagens/entrada.png](imagem/entrada.png)
+![imagens/entrada.png](imagens/entrada.png)
 - Saída:\
-![imagens/saida.png](imagem/saida.png)
+![imagens/saida.png](imagens/saida.png)
 
