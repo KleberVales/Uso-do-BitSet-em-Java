@@ -10,3 +10,8 @@ Esse desafio requer o uso da classe BitSet do Java, que permite manipular bits d
 ## Formato de Entrada
 1. A primeira linha contém dois inteiros, 𝑛 (tamanho dos BitSets) e 𝑚 (quantidade de operações).
 2. As próximas 𝑚 linhas contêm uma das seguintes operações:
+   - AND <1 ou 2> <1 ou 2>: faz o "E lógico" entre os BitSets e salva o resultado no primeiro operando.
+   - OR <1 ou 2> <1 ou 2>: faz o "OU lógico" entre os BitSets e salva o resultado no primeiro operando.
+   - XOR <1 ou 2> <1 ou 2>: faz o "OU exclusivo" entre os BitSets e salva o resultado no primeiro operando.
+   - FLIP <1 ou 2> <index>: inverte o valor do bit no índice especificado do BitSet escolhido.
+   - SET <1 ou 2> <index>: define o bit no índice especificado como 1 no BitSet escolhido.
