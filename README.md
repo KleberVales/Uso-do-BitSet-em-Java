@@ -20,8 +20,8 @@ Esse desafio requer o uso da classe BitSet do Java, que permite manipular bits d
 Para cada operação, exiba o número de bits 1 em 𝐵1 e 𝐵2 como dois inteiros separados por um espaço.
 
 ### Exemplo
-- Entrada:
+- Entrada:\
 ![imagem/entrada.png](imagem/entrada.png)
-- Saída:
+- Saída:\
 ![imagem/saida.png](imagem/saida.png)
 
